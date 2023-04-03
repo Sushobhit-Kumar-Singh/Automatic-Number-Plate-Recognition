@@ -1,0 +1,8 @@
+(1) Download Python 3.6.X
+(2) Download Xamp Control Panel
+(3) Open CMD in working directory
+(4) Write "pip install -r requirements.txt" in CMD
+(5) Run "test_GUI.py" for whole project.
+(6) Full demo of project :- https://youtu.be/nkw2rtT_OxQ
+
+
